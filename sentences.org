@@ -1,0 +1,17 @@
+# Local variables:
+# eval: (anki-editor-mode)
+# End:
+
+#+title: German - Sentences
+#+PROPERTY: ANKI_DECK German
+#+PROPERTY: ANKI_TAGS sentences
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613039153976
+  :END:
+** Front
+Ihr seid Männer.
+** Back
+Vous êtes des hommes.

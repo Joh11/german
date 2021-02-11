@@ -1,0 +1,96 @@
+# Local variables:
+# eval: (anki-editor-mode)
+# End:
+
+#+title: German - Vocabulary
+#+PROPERTY: ANKI_DECK German
+#+PROPERTY: ANKI_TAGS vocabulary
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613047798173
+  :END:
+** Front
+sucré
+** Back
+süß
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613047775973
+  :END:
+** Front
+ça a un goût (= it tastes)
+** Back
+es schmeckt
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613047669098
+  :END:
+** Front
+vraiment
+** Back
+wirklich
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613039207326
+  :END:
+** Front
+Le garçon   
+** Back
+der Junge
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613039029827
+  :END:
+** Front
+le pain
+** Back
+das Brot
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613038972101
+  :END:
+** Front
+l'eau
+** Back
+das Wasser
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613030483676
+  :END:
+** Front
+le livre
+** Back
+das Buch
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613030637576
+  :END:
+** Front
+le journal
+** Back
+die Zeitung
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613033855951
+  :END:
+** Front
+la femme
+** Back
+die Frau

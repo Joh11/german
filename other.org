@@ -1,0 +1,18 @@
+# Local variables:
+# eval: (anki-editor-mode)
+# End:
+
+#+title: German - Vocabulary
+#+PROPERTY: ANKI_DECK German
+#+PROPERTY: ANKI_TAGS other
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1613047526123
+  :END:
+** Front
+Prononciation du son =ch=
+** Back
+- i, e, eu, ei, äu + ch: =ch= doux, entre le =h= et le =sch=
+- o, a, au + ch: =ch= dur, un =r= qui vient du fond de la gorge
