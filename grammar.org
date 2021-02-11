@@ -1,0 +1,55 @@
+# Local variables:
+# eval: (anki-editor-mode)
+# End:
+
+#+title: German - Grammar
+#+PROPERTY: ANKI_DECK German
+#+PROPERTY: ANKI_TAGS grammar
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1613049469693
+  :END:
+** Front
+L'article indéfini au nominatif
+** Back
+| masculin | neutre | féminin | pluriel |
+|----------+--------+---------+---------|
+| ein      | ein    | eine    | -       |
+
+* Item
+:PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1613049390269
+  :END:
+** Front
+L'article défini au nominatif
+** Back
+| masculin | neutre | féminin | pluriel |
+|----------+--------+---------+---------|
+| der      | das    | die     | die     |
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1613049260919
+  :END:
+** Front
+L'article indéfini à l'accusatif
+** Back
+| masculin | neutre | féminin | pluriel |
+|----------+--------+---------+---------|
+| einen    | ein    | eine    | -       |
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1613049390590
+  :END:
+** Front
+L'article défini à l'accusatif
+** Back
+| masculin | neutre | féminin | pluriel |
+|----------+--------+---------+---------|
+| den      | das    | die     | die     |

@@ -2,10 +2,20 @@
 # eval: (anki-editor-mode)
 # End:
 
-#+title: German - Vocabulary
+#+title: German - Other
 #+PROPERTY: ANKI_DECK German
 #+PROPERTY: ANKI_TAGS other
 
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1613048787918
+  :END:
+** Front
+Ordre du COD et COI
+** Back
+Le COI est placé devant le COD en Allemand. 
+   
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic

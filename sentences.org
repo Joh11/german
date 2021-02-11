@@ -9,6 +9,16 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613048239069
+  :END:
+** Front
+Tu y es ?
+** Back
+Bist du so weit ?
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1613039153976
   :END:
 ** Front

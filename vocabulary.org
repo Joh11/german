@@ -9,6 +9,36 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613048527468
+  :END:
+** Front
+le jardin
+** Back
+der Garten
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613048362969
+  :END:
+** Front
+le coin
+** Back
+der Ecke
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613048034194
+  :END:
+** Front
+Je nage
+** Back
+Ich schwimme
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1613047798173
   :END:
 ** Front
