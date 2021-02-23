@@ -9,6 +9,16 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613050281743
+  :END:
+** Front
+Je vais bien
+** Back
+Mir geht's gut
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1613048239069
   :END:
 ** Front

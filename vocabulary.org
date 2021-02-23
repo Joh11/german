@@ -9,6 +9,36 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614091648782
+  :END:
+** Front
+réellement
+** Back
+eigentlich
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613050402718
+  :END:
+** Front
+Bonne nuit. 
+** Back
+Gute Nacht.
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1613050356719
+  :END:
+** Front
+Bonsoir !
+** Back
+Guten Abend !
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1613048527468
   :END:
 ** Front
