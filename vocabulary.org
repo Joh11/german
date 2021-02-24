@@ -169,16 +169,6 @@ das Rezept
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
-  :ANKI_NOTE_ID: 1614162246179
-  :END:
-** Front
-je me sens mal
-** Back
-ich bin schlecht
-   
-* Item
-  :PROPERTIES:
-  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1614162246529
   :END:
 ** Front

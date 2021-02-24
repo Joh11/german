@@ -6,6 +6,17 @@
 #+PROPERTY: ANKI_DECK German
 #+PROPERTY: ANKI_TAGS sentences
 
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162246179
+  :END:
+** Front
+Je me sens mal
+** Back
+Ich bin schlecht
+
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
