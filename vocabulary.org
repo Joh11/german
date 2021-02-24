@@ -1,10 +1,300 @@
-# Local variables:
+# Local Variables:
 # eval: (anki-editor-mode)
 # End:
 
 #+title: German - Vocabulary
 #+PROPERTY: ANKI_DECK German
 #+PROPERTY: ANKI_TAGS vocabulary
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614163844504
+  :END:
+** Front
+à plus tard
+** Back
+bis später
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614163844629
+  :END:
+** Front
+malheureusement
+** Back
+leider
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614163287279
+  :END:
+** Front
+la clé
+** Back
+der Schlüssel
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614163287370
+  :END:
+** Front
+l'adulte
+** Back
+der Erwachsene
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614163287425
+  :END:
+** Front
+où
+** Back
+wo
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614163287507
+  :END:
+** Front
+l'hôtel
+** Back
+das Hotel
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162723405
+  :END:
+** Front
+cher
+** Back
+teuer
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162723510
+  :END:
+** Front
+les bijoux
+** Back
+der Schmuck
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162723583
+  :END:
+** Front
+triste
+** Back
+traurig
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162723778
+  :END:
+** Front
+prêt
+** Back
+fertig
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162723841
+  :END:
+** Front
+je suis en bonne santé
+** Back
+ich bin gesund
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162723909
+  :END:
+** Front
+drôle
+** Back
+lustig
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162723968
+  :END:
+** Front
+quand
+** Back
+wann
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162724166
+  :END:
+** Front
+la recette
+** Back
+das Rezept
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162246179
+  :END:
+** Front
+je me sens mal
+** Back
+ich bin schlecht
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162246529
+  :END:
+** Front
+qui
+** Back
+wer
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162246623
+  :END:
+** Front
+le thé
+** Back
+der Tee
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162246737
+  :END:
+** Front
+le froid
+** Back
+die Kälte
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162246833
+  :END:
+** Front
+juste
+** Back
+richtig
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162246932
+  :END:
+** Front
+laid
+** Back
+hässlich
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614162247255
+  :END:
+** Front
+la souris
+** Back
+die Maus
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614161153629
+  :END:
+** Front
+l'animal
+** Back
+das Tier
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614161025379
+  :END:
+** Front
+j'ai soif
+** Back
+ich habe Durst
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614161025704
+  :END:
+** Front
+le sel
+** Back
+das Salz
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614104560002
+  :END:
+** Front
+tranquille
+** Back
+ruhig
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614104530926
+  :END:
+** Front
+de la famille
+** Back
+Verwandte
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614104061826
+  :END:
+** Front
+je dors
+** Back
+ich schlafe
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614104061975
+  :END:
+** Front
+la nièce
+** Back
+die Nichte
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614103979627
+  :END:
+** Front
+l'oncle
+** Back
+der Onkel
 
 * Item
   :PROPERTIES:

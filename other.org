@@ -9,6 +9,17 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1614104478176
+  :END:
+** Front
+Nombre des monnaies
+** Back
+Les monnaies au masculin sont au singulier, alors que les monnaies au
+féminin s'accordent en nombre.
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
   :ANKI_NOTE_ID: 1613048787918
   :END:
 ** Front
