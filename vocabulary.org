@@ -9,6 +9,26 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614164552879
+  :END:
+** Front
+le voyage
+** Back
+die Reise
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614164518980
+  :END:
+** Front
+la table
+** Back
+der Tisch
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1614163844504
   :END:
 ** Front
