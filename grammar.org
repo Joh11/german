@@ -9,6 +9,30 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1614173619554
+  :END:
+** Front
+L'adjectif démonstratif à l'accusatif
+** Back
+| masculin | neutre | féminin | pluriel |
+|----------+--------+---------+---------|
+| diesen   | dieses | diese   | diese   |
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1614164974154
+  :END:
+** Front
+L'adjectif démonstratif au nominatif
+** Back
+| masculin | neutre | féminin | pluriel |
+|----------+--------+---------+---------|
+| dieser   | dieses | diese   | diese   |
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
   :ANKI_NOTE_ID: 1613049469693
   :END:
 ** Front

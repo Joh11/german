@@ -6,7 +6,16 @@
 #+PROPERTY: ANKI_DECK German
 #+PROPERTY: ANKI_TAGS sentences
 
-   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614291546211
+  :END:
+** Front
+Vive la France !
+** Back
+Hoch lebe Frankreich !
+
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)

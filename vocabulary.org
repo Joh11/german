@@ -9,13 +9,23 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614291548910
+  :END:
+** Front
+le vent
+** Back
+der Wind
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1614164552879
   :END:
 ** Front
 le voyage
 ** Back
 die Reise
-   
+
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
