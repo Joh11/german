@@ -1,4 +1,4 @@
-# Local Variables:
+# Local variables:
 # eval: (anki-editor-mode)
 # End:
 
@@ -6,6 +6,36 @@
 #+PROPERTY: ANKI_DECK German
 #+PROPERTY: ANKI_TAGS vocabulary
 
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614355296784
+  :END:
+** Front
+plusieurs
+** Back
+mehrere
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614355296858
+  :END:
+** Front
+quelques
+** Back
+einige
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614355296937
+  :END:
+** Front
+beaucoup
+** Back
+viele
+   
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
