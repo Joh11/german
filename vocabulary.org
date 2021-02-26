@@ -11,6 +11,33 @@
   :ANKI_NOTE_TYPE: Basic (and reversed card)
   :END:
 ** Front
+je conduis
+** Back
+ich fahre
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :END:
+** Front
+important
+** Back
+wichtig
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :END:
+** Front
+je pense
+** Back
+ich denke
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :END:
+** Front
 parce que
 ** Back
 weil
