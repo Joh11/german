@@ -1,0 +1,22 @@
+# Local variables:
+# eval: (anki-editor-mode)
+# End:
+
+#+title: German - Syntax
+#+PROPERTY: ANKI_DECK German
+#+PROPERTY: ANKI_TAGS syntax
+
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic
+  :ANKI_NOTE_ID: 1614358758184
+  :END:
+** Front
+Position du verbe pour les différents types de propositions
+** Back
+- principale et indépendante: 2ème position
+- subordonnée: dernière position
+
+Il est à noter que le compte s'effectue depuis le début de la phrase,
+en comptant une proposition subordonnée avant la principale pour une
+position !

@@ -9,6 +9,86 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614357793860
+  :END:
+** Front
+peut-être
+** Back
+vielleicht
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614357773735
+  :END:
+** Front
+bien que
+** Back
+obwohl
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614357773934
+  :END:
+** Front
+tant que
+** Back
+solange
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614357324034
+  :END:
+** Front
+si
+** Back
+sofern
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614357324150
+  :END:
+** Front
+sowie
+** Back
+ainsi que
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614357324434
+  :END:
+** Front
+la sœur
+** Back
+die Schwester
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614356654885
+  :END:
+** Front
+la relation
+** Back
+die Beziehung
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614356544709
+  :END:
+** Front
+la petite fille
+** Back
+die Enkelin
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1614355296784
   :END:
 ** Front
