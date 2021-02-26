@@ -9,6 +9,56 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614360004285
+  :END:
+** Front
+car
+** Back
+denn
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614360004432
+  :END:
+** Front
+mais
+** Back
+aber
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614360004516
+  :END:
+** Front
+mais (quand même, pourtant)
+** Back
+doch
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614359450535
+  :END:
+** Front
+le pantalon
+** Back
+die Hose
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :ANKI_NOTE_ID: 1614359286109
+  :END:
+** Front
+soit ... soit ...
+** Back
+entweder ... oder ...
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1614357793860
   :END:
 ** Front
