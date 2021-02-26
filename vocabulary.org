@@ -9,6 +9,24 @@
 * Item
   :PROPERTIES:
   :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :END:
+** Front
+parce que
+** Back
+weil
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
+  :END:
+** Front
+dès que
+** Back
+sobald
+   
+* Item
+  :PROPERTIES:
+  :ANKI_NOTE_TYPE: Basic (and reversed card)
   :ANKI_NOTE_ID: 1614360004285
   :END:
 ** Front
